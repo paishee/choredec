@@ -1,0 +1,23 @@
+{
+    "name": "choredec",
+    "version": "1.0.0",
+    "author": "paishee",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paishee/choredec.git"
+    },
+    "bugs": {
+        "url": "https://github.com/paishee/choredec/issues"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/paishee/choredec/blob/main/LICENSE"
+    },
+    "keywords": [
+        "nodejs",
+        "choredec"
+    ],
+    "homepage": "https://github.com/paishee/choredec",
+    "main": "index.js"
+}
