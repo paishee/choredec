@@ -1,3 +1,11 @@
+/*
+chore declaration type
+by paishee
+
+github.com/paishee/choredec
+*/
+
+
 function chore( strings, ...values) {
     let [ name ] = (strings instanceof Array) ? strings : [strings];
     let stuff = name;
